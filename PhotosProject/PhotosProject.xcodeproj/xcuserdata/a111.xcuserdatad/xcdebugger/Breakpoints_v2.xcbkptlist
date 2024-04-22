@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FA93E401-7125-4C2C-BC7E-973721054451"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36F8B654-F885-4468-8611-B89EB4A232B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotosProject/Albums.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "setupLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36F8B654-F885-4468-8611-B89EB4A232B8 - e7bd9f82af3484f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "785">
+               </Location>
+               <Location
+                  uuid = "36F8B654-F885-4468-8611-B89EB4A232B8 - 97d27747b1f425f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SnapKit.ConstraintMaker) -&gt; () in PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E2F8E2D-D903-425C-9248-8BEF21A7A839"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotosProject/Albums.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "setupLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E2F8E2D-D903-425C-9248-8BEF21A7A839 - e7bd9f82af3485de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "926">
+               </Location>
+               <Location
+                  uuid = "3E2F8E2D-D903-425C-9248-8BEF21A7A839 - 252dd188e869e893"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (SnapKit.ConstraintMaker) -&gt; () in PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E457D2F-4DA3-4EC5-8B23-330A9E1A41A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotosProject/Albums.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "setupLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E457D2F-4DA3-4EC5-8B23-330A9E1A41A3 - e7bd9f82af348614"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1012">
+               </Location>
+               <Location
+                  uuid = "6E457D2F-4DA3-4EC5-8B23-330A9E1A41A3 - 7089baba470b9f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (SnapKit.ConstraintMaker) -&gt; () in PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8985AFF7-B68D-4C97-A6E4-1994F840572F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotosProject/Albums.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "setupLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8985AFF7-B68D-4C97-A6E4-1994F840572F - e7bd9f82af34874a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "1131">
+               </Location>
+               <Location
+                  uuid = "8985AFF7-B68D-4C97-A6E4-1994F840572F - 9ee507efbfad4209"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (SnapKit.ConstraintMaker) -&gt; () in PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2449C308-F7F8-4E10-9818-69B42C198146"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotosProject/Albums.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "setupLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2449C308-F7F8-4E10-9818-69B42C198146 - e7bd9f82af348780"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  uuid = "2449C308-F7F8-4E10-9818-69B42C198146 - 2c40e011164ef6c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (SnapKit.ConstraintMaker) -&gt; () in PhotosProject.Albums.setupLayout() -&gt; ()"
+                  moduleName = "PhotosProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a111/Desktop/PhotosProject/PhotosProject/Albums.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
